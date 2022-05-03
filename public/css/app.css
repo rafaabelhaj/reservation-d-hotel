@@ -1,0 +1,18 @@
+body{ 
+    padding-top: 30px;
+    padding-bottom: 30px;
+   }
+   header, footer{
+    width: 100%;
+    position: fixed; 
+    color: #fff;
+    height: 30px;
+   }
+   header{
+    background:burlywood ;
+    top: 0;
+   }
+   footer{
+    background:brown;
+    bottom: 0;
+}   
